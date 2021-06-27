@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pytest = "*"
 pygithub = "*"
+setuptools = "*"
+wheel = "*"
 
 [dev-packages]
 
